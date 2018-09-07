@@ -1,0 +1,7 @@
+*.png
+*.pyc
+*-checkpoint.ipynb
+*.nii
+*.tar.gz
+*.tar
+*.pkl
